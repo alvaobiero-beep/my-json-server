@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "sku": "ACC-00Y",
+      "name": "Classic Leather Handbag",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=200",
+      "category": "Accessories",
+      "price": 450,
+      "stock": 18,
+      "id": 1
+    },
+    {
+      "sku": "FOO-001",
+      "name": "Urban Sneakers",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200",
+      "category": "Footwear",
+      "price": 620,
+      "stock": 12,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "sku": "BEA-001",
+      "name": "Signature Perfume",
+      "category": "Beauty",
+      "price": 2800,
+      "stock": 7,
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=200"
+    },
+    {
+      "sku": "ACC-002",
+      "name": "Minimalist Watch",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200",
+      "category": "Accessories",
+      "price": 78990,
+      "stock": 0,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "sku": "CLO-001",
+      "name": "Everyday Hoodie",
+      "category": "Clothing",
+      "price": 3200,
+      "stock": 14,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=200"
+    },
+    {
+      "id": 6,
+      "sku": "ACC-003",
+      "name": "Travel Backpack",
+      "category": "Accessories",
+      "price": 3900,
+      "stock": 21,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200"
+    },
+    {
+      "id": 7,
+      "sku": "ELE-001",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 4800,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200"
+    },
+    {
+      "id": 8,
+      "sku": "BEA-002",
+      "name": "Hydrating Face Cream",
+      "category": "Beauty",
+      "price": 1800,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=200"
+    },
+    {
+      "id": 9,
+      "sku": "ACC-004",
+      "name": "Classic Leather Wallet",
+      "category": "Accessories",
+      "price": 1500,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=200"
+    },
+    {
+      "id": 10,
+      "sku": "HOM-001",
+      "name": "Modern Table Lamp",
+      "category": "Home",
+      "price": 3400,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=200"
+    },
+    {
+      "id": 11,
+      "sku": "FOO-002",
+      "name": "Casual Flat Sandals",
+      "category": "Footwear",
+      "price": 2200,
+      "stock": 16,
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200"
+    },
+    {
+      "id": 12,
+      "sku": "HOM-002",
+      "name": "Reusable Water Bottle",
+      "category": "Home",
+      "price": 1200,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=200"
+    },
+    {
+      "sku": "ACC-005",
+      "name": "Sweat pant",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvDK6ZAPyb7wxLf0cjiOYxLFVEPJ-z2yEa2eONygXmA&s=10",
+      "category": "Footwear",
+      "price": 300,
+      "stock": 12,
+      "id": 13
+    },
+    {
+      "sku": "KDN-554",
+      "name": "Makeupset",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlrH3naIWogs_MbjDBgnOBn698IzBwEnC4aSfHku54iw&s=10",
+      "category": "Beauty",
+      "price": 8500,
+      "stock": 25,
+      "id": 14
+    },
+    {
+      "sku": "RYT-54",
+      "name": "Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7Xor-r7fGPMtU3M_7lC0nzr-PpNU14fZBfU7wGLsHw&s=10",
+      "category": "Electronics",
+      "price": 47000,
+      "stock": 23,
+      "id": 16
+    },
+    {
+      "sku": "CTR-456",
+      "name": "Cap",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SqAbKDdjiXuB2RltQPLKUmK8Ixl2AJqBpJduBKlxxA&s=10",
+      "category": "Clothing",
+      "price": 450,
+      "stock": 21,
+      "id": 18
+    }
+  ]
+}
